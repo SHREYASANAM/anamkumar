@@ -1,3 +1,4 @@
 # anamkumar
-This is my first gitb repository 
-managed by Anam kumar gupta
+This is my first gitb repository.
+<br>
+managed by Anam kumar gupta.
